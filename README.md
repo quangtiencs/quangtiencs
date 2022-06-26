@@ -1,10 +1,15 @@
-![](quangtiencs.gif "quangtiencs"  | width=300)
+![](quangtiencs_small.png "quangtiencs")
 
 Hi, this is quangtiencs’s log, a homepage of my engineering life. I am Tien Le-Quang (Lê Quang Tiến), a ˈdeɪtə dɪˈtektɪv (a.k.a data detective or data scientist).
 
+### Blog:
+
+- ThetaLog (vietnamese blog): https://thetalog.com/
+- Personal blog: https://quangtiencs.com/
+
 ### Primary interests:
 
-- Real-world applications: PCausal reasoning, Search system.
+- Real-world applications: Causal reasoning, Search system.
 - Machine learning methodologies: Bayesian Inference, Probabilistic Deep Learning, Probabilistic Graphical Models.
 - Algorithm for optimizations: Bandit Algorithms, Constraint Programming (CP-SAT problem).
 
